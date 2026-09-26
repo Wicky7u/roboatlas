@@ -1,0 +1,10 @@
+{
+  "name": "roboatlas",
+  "version": "0.1.0",
+  "description": "Interactive knowledge atlas for robotics and embodied intelligence.",
+  "type": "module",
+  "scripts": {
+    "dev": "node server.mjs",
+    "check": "node --check dist/app.js && node --check dist/data.js && node --check dist/sales-guides.js && node --check dist/server/data.js && node --check server.mjs"
+  }
+}

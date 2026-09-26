@@ -1,0 +1,25 @@
+# Secrets and local configuration
+.env
+.env.*
+!.env.example
+
+# Dependencies and generated output
+node_modules/
+coverage/
+.cache/
+.temp/
+tmp/
+.sites-runtime/
+
+# Logs and temporary files
+*.log
+*.tmp
+*.tgz
+
+# Operating system and editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+*.swo

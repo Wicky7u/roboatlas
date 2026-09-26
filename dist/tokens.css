@@ -1,0 +1,33 @@
+:root {
+  --color-background:#f4f4f2;
+  --color-text:#181818;
+  --color-muted:#777;
+  --color-faint:#a0a0a0;
+  --color-accent:#647d70;
+  --color-line:rgba(52,61,51,.12);
+  --glass-background:rgba(255,255,255,.65);
+  --glass-border:rgba(255,255,255,.7);
+  --space-1:4px;
+  --space-2:8px;
+  --space-3:12px;
+  --space-4:16px;
+  --space-6:24px;
+  --space-8:32px;
+  --space-12:48px;
+  --space-16:64px;
+  --space-24:96px;
+  --radius-small:8px;
+  --radius-panel:12px;
+  --radius-pill:999px;
+  --shadow-floating:0 12px 40px rgba(0,0,0,.08);
+  --font-sans:Inter,'SF Pro Display',-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;
+  --text-body:14px;
+  --text-caption:11px;
+  --text-title:44px;
+  --ease-out:cubic-bezier(.22,1,.36,1);
+  --motion-fast:250ms ease;
+  --motion-slow:600ms ease;
+  --motion-enter:900ms cubic-bezier(.22,1,.36,1);
+  --content-width:1200px;
+}
+
